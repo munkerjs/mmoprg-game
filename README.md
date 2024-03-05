@@ -1,1 +1,1 @@
-# mmoprg-game
+# mmoprg-game document design
